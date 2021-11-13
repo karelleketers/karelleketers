@@ -74,6 +74,6 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :clipboard: Recent projects
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Spotify_Api&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/pgm-sybrdebo/Spotify_Api)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=karelleketers&repo=ArneQuinze&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/karelleketers/ArneQuinze)
  
 ***
