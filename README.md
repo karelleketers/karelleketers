@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"/>, I am Ella Keters
 
 ## :sunglasses: About me
-I am a motivated, ambitious, and hardworking student in computer programming. I have acquired extensive knowledge in the field through my studies of 'Business Administration - Main subject Management and IT' and 'Computer programming'. I can handle working under pressure as well as communicate and collaborate seamlessly in a teamwork environment. My passion for analyzing and solving problems comes from my curious and perfectionistic nature.
+I am a motivated, ambitious, and hardworking student in computer programming. I have acquired extensive knowledge in the field through my studies. I can handle working under pressure as well as communicate and collaborate seamlessly in a teamwork environment. My passion for analyzing and solving problems comes from my curious and perfectionistic nature.
 
 ***
 
@@ -50,10 +50,10 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :office: Job experience
 
-- 2018 - 2020 &ensp; &ensp; Student job: **Bank clerq** at management office Vandenheede *in Tiegem*
-- 2016 - 2017 &ensp; &ensp; Student job: **Administrative assistant** at CNH Financial Services *in Zedelgem*
-- 2013 - 2016 &ensp; &ensp; Student job: **Administrative assistant** at Procotex NV *in Dottignies*
-- 2012 - 2014 &ensp; &ensp; Student job: **Shop-assistant** at BLOKKER *in Kuurne and Roeselare* 
+- 2022 &ensp; &ensp; Internship: **Software Support** at DEKRA *in Ghent*
+- 2021 &ensp; &ensp; Internship: **Full-Stack Developer** at OSOC *in Ghent*
+- 2020 &ensp; &ensp; Student job: **Cashier** at CASA *in Ghent*
+- 2013 - 2018 &ensp; &ensp; Student job: **Kitchen assistant** at Da Vinci *in Westende* 
 
 ***
 
