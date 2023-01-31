@@ -60,7 +60,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 ## :mortar_board: Education 
 
 - 2020 - 2022 &ensp; &ensp; &ensp; **Computer Programming**
-- 2013 - 2018 &ensp; &ensp; &ensp; **Bachelor Geology *at Ghent University*
+- 2013 - 2018 &ensp; &ensp; &ensp; **Bachelor Geology** *at Ghent University*
 - 2004 - 2011 &ensp; &ensp; &ensp; **Latin-Mathematics** *at Sint-Lutgardisinstituut Oostende*
 
 ***
