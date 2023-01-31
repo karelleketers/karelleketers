@@ -10,7 +10,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 :iphone: &ensp; 0032 480 67 25 20
 
-:email: &ensp; k.karelle@hotmail.com
+:email: &ensp; k.karelle@hotmail.be
 
 :birthday: &ensp; 23rd of August 1993
 
