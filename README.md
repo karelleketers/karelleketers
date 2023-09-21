@@ -50,6 +50,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :office: Job experience
 
+- 2023 &ensp; &ensp; Internship **Data Indexation Full-Stack Developer** at Abstract *in Ghent*
 - 2022 &ensp; &ensp; Internship: **Software Support** at DEKRA *in Ghent*
 - 2021 &ensp; &ensp; Internship: **Full-Stack Developer** at OSOC *in Ghent*
 - 2020 &ensp; &ensp; Student job: **Cashier** at CASA *in Ghent*
@@ -59,7 +60,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :mortar_board: Education 
 
-- 2020 - 2022 &ensp; &ensp; &ensp; **Computer Programming**
+- 2020 - 2024 &ensp; &ensp; &ensp; **Computer Programming**
 - 2013 - 2018 &ensp; &ensp; &ensp; **Bachelor Geology** *at Ghent University*
 - 2004 - 2011 &ensp; &ensp; &ensp; **Latin-Mathematics** *at Sint-Lutgardisinstituut Oostende*
 
