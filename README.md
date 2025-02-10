@@ -6,13 +6,13 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 ***
 
 ## :boy: Personal Information
-:house: &ensp; Justus de Harduwijnlaan 5, 9000 Gent
+:house: &ensp; 
 
-:iphone: &ensp; 0032 480 67 25 20
+:iphone: &ensp; 
 
-:email: &ensp; k.karelle@hotmail.be
+:email: &ensp; 
 
-:birthday: &ensp; 23rd of August 1993
+:birthday: &ensp;
 
 ***
 
